@@ -27,3 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Explicação sobre o material nada de mais.
+<br>
+6. Criação de um projeto<br>
+7. Componentes<br>
+8. Estilos <br>
+9. Seletores<br>
+10. Gerando um componente<br>
+11. Material Design<br>
+12. Instalação de módulos
